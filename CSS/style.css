@@ -1,0 +1,14 @@
+
+
+.changer{ 
+    margin: auto;
+    height: 75px;
+    max-width: 1280px;
+    width: 90%;
+    box-sizing: inherit;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    
+}
